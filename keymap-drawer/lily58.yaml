@@ -58,7 +58,7 @@ layers:
   - Rai
   - BACKSPACE
   - ENTER
-  - RIGHT ALT
+  - ENTER
   Low:
   - ESCAPE
   - '1'
@@ -117,7 +117,7 @@ layers:
   - Rai
   - BACKSPACE
   - RETURN
-  - RIGHT ALT
+  - ENTER
   Rai:
   - F12
   - F1
