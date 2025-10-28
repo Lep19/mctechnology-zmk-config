@@ -58,7 +58,7 @@
 &none  &none         &kp ENTER     &kp ESCAPE    &none         &none                       &none          &kp L   &kp U   &kp Y   &kp SEMICOLON  &none
 &none  &kp A         &kp R         &kp S         &kp T         &none                       &none          &kp N   &kp E   &kp I   &kp O          &none
 &none  &none         &none         &none         &none         &none      &tog 2    &none  &kp K          &none   &none   &none   &none          &none
-                                   &none         &none         &kp SPACE  &mo 3     &kp J  &kp BACKSPACE  &kp L   &none
+                                   &none         &none         &kp SPACE  &mo 3     &kp J  &kp BACKSPACE  &kp M   &none
             >;
 
             sensor-bindings = <&inc_dec_kp C_VOL_UP C_VOL_DN>;
