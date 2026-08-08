@@ -1,6 +1,6 @@
 layout: {zmk_keyboard: lily58}
 layers:
-  colemak:
+  COLEMAK:
   - Esc
   - '1'
   - '2'
@@ -50,16 +50,16 @@ layers:
   - ','
   - .
   - /
-  - {t: game, h: toggle}
+  - {t: GAMING, h: toggle}
   - $$mdi:apple-keyboard-option$$
   - $$mdi:apple-keyboard-command$$
   - ␣
-  - Rai
-  - Rai
+  - FN1
+  - FN2
   - BACKSPACE
   - ENTER
   - ENTER
-  game:
+  GAMING:
   - ESCAPE
   - '1'
   - '2'
@@ -109,16 +109,75 @@ layers:
   - M
   - ','
   - .
-  - {t: game, h: toggle}
+  - {t: GAMING, h: toggle}
   - LEFT ALT
   - LEFT GUI
   - ␣
-  - Rai
-  - Rai
+  - FN1
+  - FN2
   - BACKSPACE
   - RETURN
   - ENTER
-  Rai:
+  FN1:
+  - '~'
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - KP 7
+  - KP 8
+  - KP 9
+  - '['
+  - ']'
+  - ''
+  - ↓
+  - ←
+  - UP ARROW
+  - →
+  - ''
+  - ''
+  - KP 4
+  - KP 5
+  - KP 6
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - KP 1
+  - KP 2
+  - KP 3
+  - ''
+  - '|'
+  - ''
+  - ''
+  - ''
+  - {type: held}
+  - ''
+  - KP 0
+  - ''
+  - ''
+  FN2:
   - F12
   - F1
   - F2
@@ -172,7 +231,7 @@ layers:
   - ''
   - ''
   - PLAY PAUSE
-  - {type: held}
+  - ''
   - {type: held}
   - ''
   - ''
