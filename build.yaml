@@ -140,12 +140,12 @@ include:
     # artifact-name: nice_lily58_left_oled
     # snippet: studio-rpc-usb-uart
   - board: nice_nano_v2
-    shield: lily58_right nice_view_adapter nice_epaper nice_view_gem
+    shield: lily58_right nice_view_adapter nice_epaper
     artifact-name: nice_lily58_right_oled
 
   # peripheral_left
   - board: nice_nano_v2
-    shield: lily58_left_peripheral nice_view_adapter nice_epaper nice_view_gem
+    shield: lily58_left_peripheral nice_view_adapter nice_epaper
     artifact-name: nice_lily58_left_peripheral_oled
 
   # Xiao_Dongle
